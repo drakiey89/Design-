@@ -1,0 +1,363 @@
+{
+ "project": "AMIR Renal & Transplant Center — Concept Film",
+ "client": "Al Aafiyah Group Sdn. Bhd.",
+ "fps": 25,
+ "duration_s": 90.0,
+ "master": {
+  "width": 3840,
+  "height": 2160,
+  "codec": "H.264 High / H.265 Main10",
+  "audio": "AAC-LC 48kHz stereo 320kbps"
+ },
+ "disclosure": "Architectural concept visualization. Subject to detailed design and statutory approvals.",
+ "scenes": [
+  {
+   "n": 1,
+   "name": "THE VISION",
+   "in": 0,
+   "out": 10,
+   "title": "AMIR RENAL & TRANSPLANT CENTER",
+   "title_in": 5.0,
+   "title_out": 9.5,
+   "title_style": "serif",
+   "shots": [
+    {
+     "id": "1.1",
+     "in": 0,
+     "out": 4,
+     "src": "GEN_1.1"
+    },
+    {
+     "id": "1.2",
+     "in": 4,
+     "out": 10,
+     "src": "GEN_1.2"
+    }
+   ],
+   "animatic": {
+    "type": "plate",
+    "from": [
+     740,
+     422,
+     1450
+    ],
+    "to": [
+     740,
+     415,
+     1050
+    ],
+    "fade_in": 1.0
+   }
+  },
+  {
+   "n": 2,
+   "name": "THE ARCHITECTURAL LANDMARK",
+   "in": 10,
+   "out": 22,
+   "title": "A NEW VISION FOR SPECIALIST HEALTHCARE",
+   "title_in": 11,
+   "title_out": 17,
+   "shots": [
+    {
+     "id": "2.1",
+     "in": 10,
+     "out": 14.5,
+     "src": "GEN_2.1"
+    },
+    {
+     "id": "2.2",
+     "in": 14.5,
+     "out": 18.5,
+     "src": "GEN_2.2"
+    },
+    {
+     "id": "2.3",
+     "in": 18.5,
+     "out": 22,
+     "src": "GEN_2.3"
+    }
+   ],
+   "animatic": {
+    "type": "plate",
+    "from": [
+     725,
+     610,
+     780
+    ],
+    "to": [
+     735,
+     235,
+     780
+    ]
+   }
+  },
+  {
+   "n": 3,
+   "name": "WELCOME AND ARRIVAL",
+   "in": 22,
+   "out": 34,
+   "title": "DESIGNED AROUND PEOPLE",
+   "title_in": 23,
+   "title_out": 29,
+   "shots": [
+    {
+     "id": "3.1",
+     "in": 22,
+     "out": 26,
+     "src": "GEN_3.1"
+    },
+    {
+     "id": "3.2",
+     "in": 26,
+     "out": 30.5,
+     "src": "GEN_3.2"
+    },
+    {
+     "id": "3.3",
+     "in": 30.5,
+     "out": 34,
+     "src": "GEN_3.3"
+    }
+   ],
+   "animatic": {
+    "type": "plate",
+    "from": [
+     600,
+     590,
+     900
+    ],
+    "to": [
+     600,
+     650,
+     460
+    ]
+   }
+  },
+  {
+   "n": 4,
+   "name": "SPECIALIST RENAL CARE",
+   "in": 34,
+   "out": 48,
+   "title": "ADVANCING RENAL CARE",
+   "title_in": 35,
+   "title_out": 41,
+   "shots": [
+    {
+     "id": "4.1",
+     "in": 34,
+     "out": 38.5,
+     "src": "GEN_4.1"
+    },
+    {
+     "id": "4.2",
+     "in": 38.5,
+     "out": 43,
+     "src": "GEN_4.2"
+    },
+    {
+     "id": "4.3",
+     "in": 43,
+     "out": 48,
+     "src": "GEN_4.3"
+    }
+   ],
+   "animatic": {
+    "type": "slate",
+    "lines": [
+     "4.1  Specialist consultation room",
+     "4.2  Renal outpatient corridor",
+     "4.3  Dialysis unit — nurses monitoring treatment"
+    ]
+   }
+  },
+  {
+   "n": 5,
+   "name": "CLINICAL EXCELLENCE",
+   "in": 48,
+   "out": 62,
+   "title": "BUILT FOR CLINICAL EXCELLENCE",
+   "title_in": 49,
+   "title_out": 55,
+   "shots": [
+    {
+     "id": "5.1",
+     "in": 48,
+     "out": 51.5,
+     "src": "GEN_5.1"
+    },
+    {
+     "id": "5.2",
+     "in": 51.5,
+     "out": 56,
+     "src": "GEN_5.2"
+    },
+    {
+     "id": "5.3",
+     "in": 56,
+     "out": 59.5,
+     "src": "GEN_5.3"
+    },
+    {
+     "id": "5.4",
+     "in": 59.5,
+     "out": 62,
+     "src": "GEN_5.4"
+    }
+   ],
+   "animatic": {
+    "type": "slate",
+    "lines": [
+     "5.1  Diagnostic imaging (CT)",
+     "5.2  Operating theatre — team preparing",
+     "5.3  Critical care bay",
+     "5.4  Clean-zone specialist corridor"
+    ]
+   }
+  },
+  {
+   "n": 6,
+   "name": "RECOVERY AND HUMAN EXPERIENCE",
+   "in": 62,
+   "out": 74,
+   "title": "HEALING WITH DIGNITY",
+   "title_in": 63,
+   "title_out": 69,
+   "shots": [
+    {
+     "id": "6.1",
+     "in": 62,
+     "out": 66.5,
+     "src": "GEN_6.1"
+    },
+    {
+     "id": "6.2",
+     "in": 66.5,
+     "out": 69.5,
+     "src": "GEN_6.2"
+    },
+    {
+     "id": "6.3",
+     "in": 69.5,
+     "out": 74,
+     "src": "GEN_6.3"
+    }
+   ],
+   "animatic": {
+    "type": "slate",
+    "lines": [
+     "6.1  Inpatient room — morning light",
+     "6.2  Ward nurse station",
+     "6.3  Family lounge"
+    ]
+   }
+  },
+  {
+   "n": 7,
+   "name": "HEALING LANDSCAPE",
+   "in": 74,
+   "out": 84,
+   "title": "A VISION BEYOND THE BUILDING",
+   "title_in": 75,
+   "title_out": 81,
+   "shots": [
+    {
+     "id": "7.1",
+     "in": 74,
+     "out": 78.5,
+     "src": "GEN_7.1"
+    },
+    {
+     "id": "7.2",
+     "in": 78.5,
+     "out": 84,
+     "src": "GEN_7.2"
+    }
+   ],
+   "animatic": {
+    "type": "plate",
+    "from": [
+     560,
+     480,
+     700
+    ],
+    "to": [
+     740,
+     422,
+     1400
+    ]
+   }
+  },
+  {
+   "n": 8,
+   "name": "THE FINAL PITCH",
+   "in": 84,
+   "out": 90,
+   "title": null,
+   "shots": [
+    {
+     "id": "8.1",
+     "in": 84,
+     "out": 90,
+     "src": "GEN_8.1"
+    }
+   ],
+   "animatic": {
+    "type": "plate",
+    "from": [
+     740,
+     415,
+     1250
+    ],
+    "to": [
+     740,
+     422,
+     1450
+    ],
+    "grade": "bluehour",
+    "hold_from": 88
+   }
+  }
+ ],
+ "end_card": {
+  "in": 85,
+  "lines": [
+   "AMIR RENAL & TRANSPLANT CENTER",
+   "Compassion. Precision. Care.",
+   "An Al Aafiyah Group Healthcare Initiative"
+  ]
+ },
+ "vo_cues": [
+  [
+   1.0,
+   9.6
+  ],
+  [
+   11.0,
+   20.6
+  ],
+  [
+   23.0,
+   32.0
+  ],
+  [
+   35.0,
+   44.6
+  ],
+  [
+   49.0,
+   58.6
+  ],
+  [
+   63.0,
+   72.0
+  ],
+  [
+   75.0,
+   83.6
+  ],
+  [
+   85.5,
+   88.5
+  ]
+ ]
+}
